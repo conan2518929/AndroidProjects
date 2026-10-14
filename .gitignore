@@ -22,6 +22,7 @@ local.properties
 .idea/deploymentTargetSelector.xml
 .idea/deviceManager.xml
 .idea/workspace.xml
+.idea/vcs.xml
 .idea/tasks.xml
 .idea/usage.statistics.xml
 .idea/dictionaries/
