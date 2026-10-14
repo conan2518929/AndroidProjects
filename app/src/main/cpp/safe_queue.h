@@ -54,6 +54,7 @@ public:
             pthread_cond_wait(&cond, &mutex);
         }
 
+
         if(!queue.empty()){
             value = queue.front();
             queue.pop();
